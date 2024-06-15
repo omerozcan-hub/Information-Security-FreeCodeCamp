@@ -1,2 +1,2 @@
 # Information-Security-FreeCodeCamp
-FreeCodeCamp Information Security Challange
+FreeCodeCamp Information Security Challenges
